@@ -1,4 +1,4 @@
-![MasterHead](https://wpart.org/wp-content/uploads/2017/07/developer-wallpaper-tag-php.jpg)
+![MasterHead](https://itkonekt.com/media/2020/09/Holycode_1920x700.png)
 
 
 <h1 align="center">Hi 👋, I'm Onur Kocabıyık</h1>
