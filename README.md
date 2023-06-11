@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurkcbyk&show_icons=true&locale=en" alt="onurkcbyk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurkcbyk&" alt="onurkcbyk" /></p>
+
+![snake gif](https://github.com/onurkcbyk/onurkcbyk/blob/output/github-contribution-grid-snake.gif)
