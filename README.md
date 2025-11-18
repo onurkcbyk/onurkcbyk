@@ -1,23 +1,39 @@
-![MasterHead](https://itkonekt.com/media/2020/09/Holycode_1920x700.png)
+![Notiq Banner](https://via.placeholder.com/1200x400/2196F3/FFFFFF?text=Notiq+-+Smart+Notes+App)
 
+<h1 align="center">📝 Notiq - Smart Notes App</h1>
+<h3 align="center">A beautiful and modern note-taking app built with Flutter</h3>
 
-<h1 align="center">Hi 👋, I'm Onur Kocabıyık</h1>
-<h3 align="center">A passionate programmer from Turkey</h3>
-
-- 📫 How to reach me **onurkcbyk@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/onur-kocabiyik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-kocabiyik" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.19-blue?style=for-the-badge&logo=flutter" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-3.0-blue?style=for-the-badge&logo=dart" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge" alt="Platform"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## ✨ Features
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onurkcbyk&show_icons=true&locale=en&layout=compact" alt="onurkcbyk" /></p>
+- 🎨 **Dark/Light Mode** - Automatic theme switching
+- 📂 **Categories** - Organize by Personal, Work, Shopping, Ideas
+- 🔍 **Smart Search** - Find notes instantly
+- ⭐ **Important Notes** - Star your priority notes
+- 💾 **Local Storage** - SQLite database, your data stays on device
+- 🎨 **Customizable** - Choose colors and text sizes
+- 📱 **Material Design** - Modern and clean UI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurkcbyk&show_icons=true&locale=en" alt="onurkcbyk" /></p>
+## 🚀 Getting Started
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurkcbyk&" alt="onurkcbyk" /></p>
+### Download
+[![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-green?logo=google-play)](https://play.google.com)
+[![Direct APK](https://img.shields.io/badge/Download_APK-v1.0.0-blue)](https://github.com/onurkcbyk/Notiq-App/releases)
 
-![snake gif](https://github.com/onurkcbyk/onurkcbyk/blob/output/github-contribution-grid-snake.gif)
+### Prerequisites
+- Flutter 3.19+
+- Dart 3.0+
+- Android SDK / Xcode
+
+### Installation
+```bash
+git clone https://github.com/onurkcbyk/Notiq-App.git
+cd Notiq-App
+flutter pub get
+flutter run
