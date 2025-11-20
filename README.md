@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Onur Kocabıyık</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=onurkcbyk&label=Profile%20views&color=0e75b6&style=flat" alt="onurkcbyk" />
-</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -34,13 +32,6 @@
 | **Inventory App** | Business inventory management | Flutter, Firebase, BLoC |
 | **E-commerce App** | Online shopping application | Flutter, Node.js, MongoDB |
 
-### 💻 Backend & APIs
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **MVC Web Service API** | Enterprise web services | C#, .NET, Entity Framework |
-| **RESTful API** | Microservices architecture | Python, FastAPI, PostgreSQL |
-| **Real-time Chat API** | WebSocket communication | Node.js, Socket.io, Redis |
-
 ### 🌐 Web Applications
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -48,26 +39,21 @@
 | **Admin Dashboard** | Business management panel | Vue.js, TypeScript, Express |
 | **E-commerce Website** | Online store frontend | Vue.js, Vuex, Tailwind CSS |
 
+### 💻 Backend & APIs
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **MVC Web Service API** | Enterprise web services | C#, .NET, Entity Framework |
+| **RESTful API** | Microservices architecture | Python, FastAPI, PostgreSQL |
+| **Real-time Chat API** | WebSocket communication | Node.js, Socket.io, Redis |
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=onurkcbyk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkcbyk&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurkcbyk&theme=radical&hide_border=true" />
-</p>
 
-## 📈 Contribution Graph
-
-![Contribution Grid](https://github.com/onurkcbyk/onurkcbyk/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/onur-kocabiyik" target="_blank">
+  <a href="https://www.linkedin.com/in/onur-kocabiyik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:onurkcbyk@hotmail.com">
@@ -78,10 +64,6 @@
   </a>
 </p>
 
----
 
-<div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-</div>
