@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/onurkcbyk/onurkcbyk/blob/main/banner.png?raw=true)
+![MasterHead](https://raw.githubusercontent.com/onurkcbyk/onurkcbyk/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Onur Kocabıyık</h1>
 <h3 align="center">Full-Stack Developer & Software Engineer from Turkey</h3>
